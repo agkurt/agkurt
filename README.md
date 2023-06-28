@@ -31,4 +31,4 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
 [![GitHub Streak](https://streak-stats.demolab.com?user=agkurt&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agkurt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
