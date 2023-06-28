@@ -9,7 +9,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-agkurt&style=flat-square&color=blue" alt=""/>
 
-
+---
 
 Hi everyone, I am Ahmet. I try to add new things to myself every day in the field of iOS. I work with the UIkit framework. You can access the applications I have developed from the repo section.I am looking for a company where I can develop myself in this direction.
 ---
@@ -20,10 +20,14 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
   
 </div>
 
+---
+
 
 Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=agkurt&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
+---
+
 
 Stats:
 
