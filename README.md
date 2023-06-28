@@ -18,7 +18,7 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-(https://camo.githubusercontent.com/e31dfc13c2040da04843bc1f3eaa3bb1284b123c06e6eeca63f09356ed7b5f09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f3030303030302f73776966742e706e67)
+<img src="(https://camo.githubusercontent.com/e31dfc13c2040da04843bc1f3eaa3bb1284b123c06e6eeca63f09356ed7b5f09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f3030303030302f73776966742e706e67)"
 
 </div>
 
