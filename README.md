@@ -11,7 +11,8 @@
 
 ---
 
-Hi everyone, I am Ahmet. I try to add new things to myself every day in the field of iOS. I work with the UIkit framework. You can access the applications I have developed from the repo section.I am looking for a company where I can develop myself in this direction.
+Hi everyone, I am Ahmet. I try to add new things to myself every day in the field of iOS. I work with the UIkit framework. You can access the applications I have developed from the repo section. I am looking for a company where I can develop myself in this direction.
+
 ---
 
 
