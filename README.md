@@ -20,7 +20,7 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Java" width="40" height="40"/>&nbsp;
-<img  src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg)" title="Xcode" alt="Java" width="40" height="40"/>&nbsp;
+<img  src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/> &nbsp;
 </div>
 
 ---
