@@ -18,7 +18,7 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg";
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Java" alt="Java" width="40" height="40";
   
 </div>
 
