@@ -28,7 +28,6 @@ Hi everyone, I am Ahmet. I try to add new things to myself every day in the fiel
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=agkurt&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agkurt)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agkurt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
