@@ -17,7 +17,8 @@ Herkese merhaba, ben Ahmet. iOS alanında her gün kendime yeni şeyler katmaya 
 ---
 Viper,
 Clean Swift,
-MVC MVVM,
+MVC,
+MVVM,
 Alamofire,
 Kingfisher,
 Storyboard
