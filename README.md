@@ -12,8 +12,8 @@
 ---
 
 Herkese merhaba, ben Ahmet. iOS alanında her gün kendime yeni şeyler katmaya çalışıyorum. UIkit frameworkü ile çalışıyorum. Geliştirdiğim uygulamalara repo bölümünden ulaşabilirsiniz(MVVM mimarisi-Storyboard). Kendimi bu yönde geliştirebileceğim bir firma arıyorum.
-Üzerine çalıştıklarım:
 
+Üzerine çalıştıklarım:
 -Viper
 -Clean Swift
 -MVC
