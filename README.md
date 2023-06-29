@@ -15,13 +15,12 @@ Herkese merhaba, ben Ahmet. iOS alanında her gün kendime yeni şeyler katmaya 
 
 Üzerine çalıştıklarım:
 ---
--Viper
--Clean Swift
--MVC
--MVVM
--Alamofire
--Kingfisher
--Storyboard
+Viper,
+Clean Swift,
+MVC MVVM,
+Alamofire,
+Kingfisher,
+Storyboard
 ---
 
 
