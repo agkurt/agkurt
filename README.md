@@ -7,19 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-agkurt&style=flat-square&color=blue" alt=""/>
-
----
-
-Üzerine çalıştıklarım:
----
-Viper,
-Clean Swift,
-MVC,
-MVVM,
-Alamofire,
-Kingfisher,
-Storyboard
+<img src="https://komarev.com/ghpvc/?username=your-github-agkurt&style=flat-square&color=blue" 
 ---
 
 
